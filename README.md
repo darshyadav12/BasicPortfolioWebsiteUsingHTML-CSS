@@ -4,8 +4,7 @@ A simple personal portfolio website I built in 9th grade to showcase my skills, 
 This is a beginner-friendly personal portfolio website built entirely with HTML and CSS. It includes sections like Home, About Me, Gallery, Skills, and Contact. I created this as a school-level project when I first started learning web development
 ## Demo
 
-
-
+![2025-12-10 18-14-49](https://github.com/user-attachments/assets/47a33f82-157a-4683-adf4-60b252c9c1c0)
 
 ## Features
 
